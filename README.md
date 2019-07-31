@@ -5,6 +5,10 @@ Ruby Version:
 Database Management System:
 PostgreSQL
 
+Heroku URL: (production)
+
+	https://olympic-challenge.herokuapp.com
+
 Getting Started:  
 
 In terminal run >  
