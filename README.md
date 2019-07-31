@@ -20,6 +20,12 @@ In terminal run >
 	rake db:{create,migrate}
 
 	rails s  (starts server locally)
+	
+Testing:
+
+In terminal run >
+
+	rspec 
 
 Endpoints:  
 
